@@ -176,7 +176,6 @@ td, th {
     margin: 0 0 1em;
     clear: left;
     color: rgba(0, 0, 0, 0.7);
-  
 }
 
 .tituloPrincipal:first-letter {
@@ -231,8 +230,7 @@ td, th {
 
 .beneficios {
     padding: 3em 0;
-    background: #888888;
-    
+    background: #888888; 
 }
 
 .conteudoBeneficios {
@@ -244,7 +242,6 @@ td, th {
     width: 40%;
     display: inline-block;
     vertical-align: top;
-
 }
 
 .itens {
@@ -291,6 +288,4 @@ td, th {
     .listaBeneficios, .imagemBeneficios {
         width: 100%;
     }
-
-
 }
