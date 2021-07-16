@@ -107,7 +107,11 @@ footer {
 .copyright {
     color: #ffffff;
     font-size: 13px;
-    margin: 20px 0;
+    margin: 20px 0 0;
+}
+
+main {
+	
 }
 
 form {
